@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Data Real-time</title>
+    
+    <!-- Memanggil Google Fonts untuk Reddit Sans Condensed -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Reddit+Sans+Condensed:wght@300;400;700;800&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            /* Menerapkan font Reddit Sans Condensed pada seluruh halaman */
+            font-family: 'Reddit Sans Condensed', sans-serif;
+            text-align: center;
+            padding-top: 50px;
+            background-color: #f9f9f9;
+            letter-spacing: 0.3px; /* Opsional: memberikan sedikit jarak antar huruf agar tetap nyaman dibaca */
+        }
+        
+        h2 {
+            font-weight: 700; /* Mengatur ketebalan judul */
+            color: #2c3e50;
+        }
+
+        .download-btn {
+            background-color: #27ae60;
+            color: white;
+            padding: 12px 24px;
+            font-size: 17px; /* Sedikit dinaikkan karena font condensed cenderung terlihat lebih kecil */
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: 700; /* Menggunakan ketebalan Bold khas Reddit Sans */
+            text-decoration: none;
+            display: inline-block;
+            transition: background 0.3s;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .download-btn:hover {
+            background-color: #219653;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Download Laporan Perpuluhan Mingguan</h2>
+    
+    <a href="https://docs.google.com/spreadsheets/d/1rJaeVeiQFcmOx0pofdl_jEit9inQLBpf5fJi97T_NvQ/export?format=xlsx" class="download-btn">
+        Download Excel (.xlsx)
+    </a>
+
+</body>
+</html>
