@@ -1,0 +1,11 @@
+{
+  "gpdi": [
+    {
+	  "_comment": "⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️HALAMAN KERJA XO SUKI",
+      "category": "LAPORAN PERPULUHAN",
+      "links": [
+        { "title": "Laporan Perpuluhan Mingguan", "url": "https://docs.google.com/spreadsheets/d/1rJaeVeiQFcmOx0pofdl_jEit9inQLBpf5fJi97T_NvQ/export?format=xlsx", "icon": "fa-regular fa-file-excel", "iconColor": "#1e90ff", "status": "🔵" }
+      ]
+    }
+  ]
+}
