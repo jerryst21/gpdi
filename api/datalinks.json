@@ -4,7 +4,7 @@
 	  "_comment": "⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️TAUTAN GPDI PATTYNAMA",
       "category": "LAPORAN PERPULUHAN",
       "links": [
-        { "title": "Laporan Perpuluhan Mingguan", "url": "https://docs.google.com/spreadsheets/d/1rJaeVeiQFcmOx0pofdl_jEit9inQLBpf5fJi97T_NvQ/export?format=xlsx", "icon": "fa-regular fa-file-excel", "iconColor": "#0F9D58", "info": "Informasi perpuluhan minggu terakhir" }
+        { "title": "Laporan Perpuluhan Mingguan", "url": "../sub/perpuluhanmingguan.html", "icon": "fa-regular fa-file-excel", "iconColor": "#0F9D58", "info": "Informasi perpuluhan minggu terakhir" }
       ]
     }
   ]
